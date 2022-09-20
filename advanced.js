@@ -72,13 +72,23 @@ console.log(northernIrelandKeys);
  */
 
 scotland = unitedKingdom[0]
-unitedKingdom.forEach(element => {
-    
-});
-unitedKingdom.population.so
 
-for (item of unitedKingdom.population){
+count = 0
+unitedKingdom.forEach(element => {
+    scotland = unitedKingdom[0]
     
-    if scotland
-}
-if (scotland.population>england.population)
+    if (scotland.population>element.population){
+        newCount = count + 1
+        sum =+ newCount
+        return console.log(sum);
+    }
+})
+
+
+ if (sum = 0 ){
+   console.log("smallest")};
+   else if ( sum = 3){
+    console.log("biggest");
+   }
+   else console.log("in the middle")
+
