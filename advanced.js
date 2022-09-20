@@ -84,11 +84,10 @@ unitedKingdom.forEach(element => {
     }
 })
 
-
- if (sum = 0 ){
+if ( sum === 0 ){
    console.log("smallest")};
-   else if ( sum = 3){
+if ( sum === 3){
     console.log("biggest");
    }
-   else console.log("in the middle")
+   else console.log("in the middle");
 
